@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://agundans.github.io/agundans.agundans
+Sitemap: https://agundans.github.io/app/agundans.agundans
+Sitemap: https://agundans.github.io/assets/agundans.agundans
+Sitemap: https://agundans.github.io/css/agundans.agundans
+Sitemap: https://agundans.github.io/includes/agundans.agundans
+Sitemap: https://agundans.github.io/item/agundans.agundans
+Sitemap: https://agundans.github.io/src/agundans.agundans
